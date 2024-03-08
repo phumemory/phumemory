@@ -47,7 +47,7 @@ I live in Thailand Studying and spending free time to sit and fix the code day b
 <h2 align="center">Discord</h2><br>
   <p align="center">
     <a href="#">
-      <img title="Pimsickgirl" alt="Pimsickgirl" src="https://discord.c99.nl/widget/theme-4/1074980560843309166.png"/>
+      <img title="Pimsickgirl" alt="Pimsickgirl" src="https://discord.c99.nl/widget/theme-1/837294095335817226.png"/>
     </a>
 </p>
 
