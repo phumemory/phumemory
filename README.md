@@ -32,6 +32,9 @@ I live in Thailand Studying and spending free time to sit and fix the code day b
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
   </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" alt="c" width="40" height="40" />
+  </a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" alt="vscode" width="40" height="40" />
  </a>
 </p>
