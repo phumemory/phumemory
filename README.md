@@ -11,8 +11,8 @@ I live in Thailand Studying and spending free time to sit and fix the code day b
 
 
 <p align="center">
-  <a href="https://github.com/Pimsickgirl"><img src="https://img.shields.io/github/followers/Pimsickgirl?style=for-the-badge"></img></a>
-  <a href="https://github.com/Pimsickgirl"><img src="https://img.shields.io/github/stars/Pimsickgirl?style=for-the-badge"></img></a>
+  <a href="https://github.com/phumemory"><img src="https://img.shields.io/github/followers/phumemory?style=for-the-badge"></img></a>
+  <a href="https://github.com/phumemory"><img src="https://img.shields.io/github/stars/phumemory?style=for-the-badge"></img></a>
 </p>
 </h2>
 
