@@ -1,7 +1,7 @@
 # Hi there 👋
 - I'm Phu age ? 
 
-I live in Thailand Studying and spending free time to sit and fix the code day by day.
+I live in Thailand and am currently studying computer engineering and spending free time to sit and fix the code day by day.
 
 - 💬 Discord **phumemory**
 
