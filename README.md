@@ -2,6 +2,7 @@
 - I'm Phu age ? 
 
 I live in Thailand and am currently studying computer engineering and spending free time to sit and fix the code day by day.
+I can only be online on Saturdays and Sundays, or during free time when I'm not occupied with university matters, but most of the time, I don't have any free time at all.
 
 - 💬 Discord **phumemory**
 
