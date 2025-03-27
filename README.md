@@ -40,7 +40,7 @@ I live in Thailand and am currently studying computer engineering and spending f
 <h2 align="center">Discord</h2><br>
   <p align="center">
     <a href="#">
-      <img title="Pimsickgirl" alt="Pimsickgirl" src="https://discord.c99.nl/widget/theme-1/837294095335817226.png"/>
+      <img title="Pimsickgirl" alt="Pimsickgirl" src="https://discord.c99.nl/widget/theme-1/1353376640339542088.png"/>
     </a>
 </p>
 
