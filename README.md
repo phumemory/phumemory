@@ -33,6 +33,9 @@ I live in Thailand and am currently studying computer engineering and spending f
  </a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="lua" widtd="40" height="40"/>
 </a>
+<a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="40" height="40"/>
+</a>
 </p>
 
 </pre>
