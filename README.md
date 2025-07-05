@@ -30,9 +30,6 @@ I live in Thailand and am currently studying computer engineering and spending f
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
   </a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" alt="vscode" width="40" height="40" />
- </a>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="lua" widtd="40" height="40"/>
-</a>
 <a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="40" height="40"/>
 </a>
