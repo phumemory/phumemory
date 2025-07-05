@@ -22,7 +22,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  <img src="[https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png](https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png)" alt="nodejs" width="37" height="40" />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" alt="nodejs" width="37" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" alt="vscode" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="40" height="40" />
