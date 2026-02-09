@@ -22,3 +22,11 @@
     <img src="https://img.shields.io/github/stars/phumemory?style=for-the-badge" />
   </a>
 </p>
+
+<h2 align="center">Discord</h2>
+
+<p align="center">
+  <img title="phumemory" alt="phumemory" src="https://discord.c99.nl/widget/theme-1/1353376640339542088.png" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,75:6e97fd,100:5d52ac" width="100%" />
